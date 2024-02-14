@@ -65,11 +65,11 @@
     "minisearch": "^6.3.0",
     "ohash": "^1.1.3",
     "pathe": "^1.1.2",
-    "scule": "^1.2.0",
-    "shiki": "^1.0.0-beta.6",
+    "scule": "^1.3.0",
+    "shiki": "^1.1.2",
     "slugify": "^1.6.6",
     "socket.io-client": "^4.7.4",
-    "ufo": "^1.3.2",
+    "ufo": "^1.4.0",
     "unist-util-stringify-position": "^4.0.0",
     "unstorage": "^1.10.1",
     "ws": "^8.16.0"
@@ -78,15 +78,15 @@
     "@nuxt/module-builder": "^0.5.5",
     "@nuxt/schema": "3.10.1",
     "@nuxt/test-utils": "3.11.0",
-    "@nuxthq/studio": "^1.0.10",
+    "@nuxthq/studio": "^1.0.11",
     "@nuxtjs/eslint-config-typescript": "latest",
-    "@nuxtjs/tailwindcss": "^6.11.3",
+    "@nuxtjs/tailwindcss": "^6.11.4",
     "@types/ws": "^8.5.10",
     "c8": "^9.1.0",
     "csvtojson": "^2.0.10",
     "eslint": "^8.56.0",
-    "globby": "^14.0.0",
-    "husky": "^9.0.10",
+    "globby": "^14.0.1",
+    "husky": "^9.0.11",
     "jiti": "^1.21.0",
     "lint-staged": "^15.2.2",
     "nuxt": "3.10.1",
@@ -97,7 +97,7 @@
     "vitest": "^1.2.2",
     "vue-docgen-web-types": "^0.1.8"
   },
-  "packageManager": "pnpm@8.15.1",
+  "packageManager": "pnpm@8.15.2",
   "pnpm": {
     "peerDependencyRules": {
       "allowedVersions": {
